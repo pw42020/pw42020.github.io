@@ -1,1 +1,6 @@
+---
+title: "Welcome to my portfolio!"
+description: "Hope you enjoy your stay!"
+---
+
 Software engineer and **founder** with expertise in **embedded systems**, **GPU-accelerated algorithms**, **distributed systems**, and **machine learning**. Founded and led **CarnotX**, conducting dozens of user interviews, building prototypes, running PMF tests, and presenting to venture capital firms. Experienced in developing **production-ready software** across multiple domains, including **building management systems**, **computer vision**, and **social platforms**, while leading agile teams and driving technical strategy in both **startups and enterprise environments**.
