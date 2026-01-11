@@ -19,7 +19,7 @@ title = "Patrick Walsh's Portfolio"
   email = "pw4.2020@gmail.com"
   image = "https://media.licdn.com/dms/image/v2/D4E03AQEHG9OT4MvvBA/profile-displayphoto-scale_200_200/B4EZtCpFAIJQAY-/0/1766349623681?e=1769644800&v=beta&t=LrKwwMBh7aqPqJZZ_qY-2wPdJox21bTvSCOmDApjYTg"
   imageQuality = 96
-  headline = "Founder and Software Engineer who loves to learn"
+  headline = "Founder and Software Engineer"
   bio = ""
   links = [
     { github = "https://github.com/pw42020" },

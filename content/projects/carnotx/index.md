@@ -4,4 +4,4 @@ draft = true
 title = 'CarnotX System Design'
 +++
 
-fdaskihjbfdasjhfbds 
+The original CarnotX system design was for a system that utilized 
