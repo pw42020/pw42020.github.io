@@ -1,5 +1,5 @@
 +++
-date = '2025-01-11T19:38:54-05:00'
+date = '2026-01-11T19:38:54-05:00'
 draft = false
 title = 'CarnotX Control System Design'
 +++
