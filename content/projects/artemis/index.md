@@ -31,7 +31,7 @@ One difficulty we ran into was that much of the data from the IMUs was that they
 
 Our software processing structure treated the leg movement as individual signals, and used signal processing techniques to retrieve cadence, lateral sway, and other relevant metrics from user movement. A display of one of our earlier demos of software in use can be seen below:
 
-{{< youtubeLite id="29HkRkzh92M" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="29HkRkzh92M" label="Earlier Computer Vision demo" >}}
 
 
 ## How Gait is Calculated
