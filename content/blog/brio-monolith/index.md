@@ -51,4 +51,4 @@ There's various submodules that include extensive examples and documentation to 
 
 ## Takeaways
 
-The Brio monolith is a clean example of a small-team AI product that spans cloud, edge, and CLI without fragmenting into a dozen repos. A uv workspace handles the Python side, colcon handles the ROS 2 side, a single shared library pins the data contract between them, and Supabase carries the auth and billing state. If you're building something similar — an agent that has to reach into a user's local environment to actually *do* anything — the layout here is a reasonable starting template.
+The Brio monolith is a clean example of a small-team AI product that spans cloud, edge, and CLI without fragmenting into a dozen repos. A uv workspace handles the Python side, colcon handles the ROS 2 side, a single shared library pins the data contract between them, and Supabase carries the auth and billing state. If you're building something similar, feel free to reach out at pat@getbrio.org and I'd love to get your take on what we're building.
