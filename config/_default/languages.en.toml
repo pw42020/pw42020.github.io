@@ -17,7 +17,7 @@ title = "Patrick Walsh's Portfolio"
 [params.author]
   name = "Patrick Walsh"
   email = "pw4.2020@gmail.com"
-  image = "https://media.licdn.com/dms/image/v2/D4E03AQEHG9OT4MvvBA/profile-displayphoto-scale_200_200/B4EZtCpFAIJQAY-/0/1766349623681?e=1769644800&v=beta&t=LrKwwMBh7aqPqJZZ_qY-2wPdJox21bTvSCOmDApjYTg"
+  image = "img/headshot.png"  # LinkedIn URLs expire — drop in a local image at assets/img/profile.jpg
   imageQuality = 96
   headline = "Founder and Software Engineer"
   bio = ""
